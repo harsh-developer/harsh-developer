@@ -3,14 +3,14 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 
 Software Developer Engineer
 ---------------------------
-![](https://komarev.com/ghpvc/?username=neerajap-01&color=brightgreen&style=flat) \
-On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding because it makes me work hard and do well in my life.
+![](https://komarev.com/ghpvc/?username=harsh-developer&color=brightgreen&style=flat) \
+On a way to be a Software Developer Engineer. Coder by passion and rider by soul.
 
 * 🌍  I'm based in Meerut, Uttar Pradesh, India
 * ✉️  You can contact me at [harshpratap1444@gmail.com](mailto:harshpratap1444@gmail.com)
-* 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on Interesting and challenging projects
-* ⚡  I love to watch movies and especially Sci-Fi genre
+* 🧠  I'm a Backend Developer and a way to become Full Stack.
+* 🤝  I'm open to collaborate to open source and challenging projects.
+* ⚡  I love to listen music 🎧 and playing cricket.
 
 <hr>
 <p align="center">
