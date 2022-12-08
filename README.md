@@ -37,10 +37,15 @@ Coder by passion and rider by soul.
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/harsh-pratap-singh-606816224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
 <a href="https://discord.com/users/h_harssh#8231" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+
 <a href="https://twitter.com/h_harssh_me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
 <a href="https://www.instagram.com/h_harssh_me/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+
 <a href="https://www.facebook.com/profile.php?id=100022262282917" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+
 <a href="https://github.com/harsh-developer?tab=overview&from=2022-07-01&to=2022-07-28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 </p>
 
