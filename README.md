@@ -8,7 +8,7 @@ On a way to be a Software Developer Engineer. Coder by passion and rider by soul
 
 * 🌍  I'm based in Meerut, Uttar Pradesh, India
 * ✉️  You can contact me at [harshpratap1444@gmail.com](mailto:harshpratap1444@gmail.com)
-* 🧠  I'm a Backend Developer and a way to become Full Stack.
+* 🧠  I'm a Backend Developer and on the way to become Full Stack.
 * 🤝  I'm open to collaborate to open source and challenging projects.
 * ⚡  I love to listen music 🎧 and playing cricket.
 
