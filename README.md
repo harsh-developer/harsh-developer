@@ -1,16 +1,17 @@
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> My name is Harsh
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Harsh
 ===========================
 
 Software Developer Engineer
 ---------------------------
 ![](https://komarev.com/ghpvc/?username=harsh-developer&color=brightgreen&style=flat) \
-On a way to be a Software Developer Engineer. Coder by passion and rider by soul.
+On a way to be a Software Developer Engineer. 
+Coder by passion and rider by soul.
 
 * 🌍  I'm based in Meerut, Uttar Pradesh, India
 * ✉️  You can contact me at [harshpratap1444@gmail.com](mailto:harshpratap1444@gmail.com)
-* 🧠  I'm a Backend Developer and on the way to become Full Stack.
+* 🧠  I'm a Backend Developer and on the way to become a Full Stack Developer.
 * 🤝  I'm open to collaborate to open source and challenging projects.
-* ⚡  I love to listen music 🎧 and playing cricket.
+* ⚡  I love to listen music 🎧 and playing cricket 🏏.
 
 <hr>
 <p align="center">
