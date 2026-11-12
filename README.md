@@ -1,50 +1,61 @@
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Harsh
-===========================
+<img src="hero.svg" alt="Harsh, Software Developer" width="100%">
 
-Software Developer Engineer
----------------------------
-![](https://komarev.com/ghpvc/?username=harsh-developer&color=brightgreen&style=flat) \
-On a way to be a Software Developer Engineer. 
-Coder by passion and rider by soul.
+<br>
 
-* 🌍  I'm based in Meerut, Uttar Pradesh, India
-* ✉️  You can contact me at [harshpratap1444@gmail.com](mailto:harshpratap1444@gmail.com)
-* 🧠  I'm a Backend Developer and on the way to become a Full Stack Developer.
-* 🤝  I'm open to collaborate to open source and challenging projects.
-* ⚡  I love to listen music 🎧 and playing cricket 🏏.
+<table width="100%">
+<tr>
+<td width="38%" valign="top">
+<sub><code>PROFESSIONALLY SINCE 2022</code></sub><br>
+<b>Software Developer.</b>
+</td>
+<td width="62%" valign="top">
+Backend developer shipping production software since 2022.<br>
+Coder by passion, rider by soul.<br><br>
+<sub>Open to open-source collaboration and challenging projects.</sub>
+</td>
+</tr>
+</table>
 
-<hr>
+<img src="timeline.svg" alt="Timeline: working as a software developer from 2022 to present" width="100%">
+
+<img src="stack.svg" alt="Tech stack: Node.js, Express, MongoDB, JavaScript, HTML5, CSS3" width="100%">
+
+<table width="100%">
+<tr>
+<td width="38%" valign="top"><sub><code>BASED IN</code></sub></td>
+<td width="62%" valign="top">Meerut, Uttar Pradesh, India</td>
+</tr>
+<tr>
+<td valign="top"><sub><code>WRITE TO</code></sub></td>
+<td valign="top"><a href="mailto:harshpratap1444@gmail.com">harshpratap1444@gmail.com</a></td>
+</tr>
+<tr>
+<td valign="top"><sub><code>OFF SCREEN</code></sub></td>
+<td valign="top">Music, cricket</td>
+</tr>
+</table>
+
+<img src="rule.svg" alt="" width="100%">
+
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=harsh-developer&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-developer&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=harsh-developer&hide_border=true&background=0D0F10&ring=A5AAA3&fire=A5AAA3&currStreakNum=E8E9E6&sideNums=E8E9E6&currStreakLabel=E8E9E6&sideLabels=929795&dates=626967" alt="GitHub contribution streak">
 </p>
-     
-<div align="center"> <a href="https://skyline.github.com/harsh-developer/2022" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Click_here_button.png" width="100" height="40" alt="Javascript" /></a></div>
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> 
-<a href="https://www.linkedin.com/in/harsh-pratap-singh-606816224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<a href="https://twitter.com/h_harssh_me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://discord.com/users/h_harssh#8231" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/h_harssh_me/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.facebook.com/profile.php?id=100022262282917" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
-<a href="https://github.com/harsh-developer?tab=overview&from=2022-07-01&to=2022-07-28" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<p align="center">
+  <sub><a href="https://skyline.github.com/harsh-developer/2026">View my 2026 contribution skyline →</a></sub>
 </p>
 
-<!---
-harsh-developer/harsh-developeris a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="road.svg" alt="" width="100%">
+
+<p align="center">
+  <sub>
+  <a href="https://github.com/harsh-developer">GitHub</a> &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/harsh-pratap-singh-606816224/">LinkedIn</a> &nbsp;/&nbsp;
+  <a href="https://twitter.com/h_harssh_me">Twitter</a> &nbsp;/&nbsp;
+  <a href="https://www.instagram.com/h_harssh_me/">Instagram</a> &nbsp;/&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100022262282917">Facebook</a> &nbsp;/&nbsp;
+  <a href="https://discord.com/users/h_harssh#8231">Discord</a>
+  </sub>
+</p>
